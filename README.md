@@ -2,7 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Mule 
 
-One Paragraph of project description goes here
 
 ### `npm start`
 
@@ -11,19 +10,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 

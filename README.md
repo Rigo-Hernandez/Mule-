@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Mule 
 
+We are an on-demand item return service.
 
 ### `npm start`
 

@@ -13,7 +13,6 @@ class App extends Component {
       checked: false
     };
   }
-  
 
   render() {
     return (

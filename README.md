@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
 <p align="center">
   <img src="https://github.com/Oscar6/capstone-app/blob/master/src/assets/mule-logo.png" width="50%" height="50%" title="Home"> 
 </p>

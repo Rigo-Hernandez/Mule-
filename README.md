@@ -28,6 +28,7 @@ Currently, the UI has been designed as well as the Login/Registration which is s
 <img src="https://github.com/Oscar6/capstone-app/blob/master/src/Styles/images/dashboard.png" width="25%" height="25% title="Dashboard">
 <img src="https://github.com/Oscar6/capstone-app/blob/master/src/Styles/images/dashboard2.png" width="25%" height="25% title="Dashboard">
 <img src="https://github.com/Oscar6/capstone-app/blob/master/src/Styles/images/dashboard3.png" width="25%" height="25% title="Dashboard">
+                                                                                                                                        
 </p>
 
 

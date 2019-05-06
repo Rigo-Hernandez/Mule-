@@ -10,6 +10,7 @@ Mule serves as an on-demand service for users needing items returned to a retail
 Currently, the UI has been designed as well as the Login/Registration which is saved to the database on the backend.
 
 
+
 ## Home & Login/Register pages
 <p>
   <img src="https://github.com/Oscar6/capstone-app/blob/master/src/Styles/images/home.png" width="25%" height="25% title="Home">
